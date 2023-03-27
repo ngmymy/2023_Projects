@@ -1,0 +1,12 @@
+---
+:id: 164339144
+:submitters:
+- :name: My My Nguyen
+  :email: nguy4513@umn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-02-24 05:09:23.766617000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-02-23 21:09:23.766617000 Z
+:status: processed
+:score: 110.0
